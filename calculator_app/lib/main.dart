@@ -93,7 +93,7 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
                 children: [
                   Text(
                     input,
-                    style: const TextStyle(fontSize: 32, color: Colors.white70),
+                    style: const TextStyle(fontSize: 31, color: Colors.white70),
                   ),
                   const SizedBox(height: 20),
                   Text(
